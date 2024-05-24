@@ -1,28 +1,48 @@
-# Portafolio de Evidencias
+# Portafolio Adaptable (Responsive) con Bootstrap 5
 
-¡Bienvenido a mi portafolio de evidencias! Aquí encontrarás una recopilación de archivos realizados durante un bootcamp, donde exploré y trabajé con elementos de HTML, CSS, JavaScript, Bootstrap y más. 💼🚀
+Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
-## Descripción del Portafolio
+El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
-En este portafolio, he adjuntado una página HTML que actúa como un contenedor para los archivos creados durante mi experiencia en el bootcamp. He personalizado la estructura y el diseño de la página para mi comodidad, asegurándome de que sea fácil de navegar y que refleje mi estilo personal.
+También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-## Contenido del Portafolio
+### Capturas de pantalla:
 
-- **Archivos HTML, CSS y JavaScript:** Encontrarás una variedad de archivos HTML, CSS y JavaScript que demuestran mis habilidades y conocimientos en el desarrollo web. Desde simples páginas estáticas hasta proyectos más complejos y dinámicos, cada archivo representa un hito en mi viaje de aprendizaje.
+Primera parte de la página web:
 
-- **Bootstrap:** He utilizado Bootstrap en algunos de mis proyectos para aprovechar su amplia gama de componentes y estilos predefinidos, lo que me ha permitido crear interfaces atractivas y receptivas de manera eficiente.
+![Primera parte de la página web](imagenes/screenshot1.png)
 
-- **Enlace al Curriculum Vitae:** Además de los archivos de proyecto, he incluido un enlace a mi curriculum vitae para que puedas conocer más sobre mi experiencia y habilidades profesionales.
+Experiencia:
 
-## Razones para Personalizar la Página
+![Experiencia](imagenes/screenshot2.png)
 
-¿Por qué personalicé la página HTML en lugar de simplemente mostrar una lista de archivos? Aquí hay algunas razones:
+Proyectos:
 
-- **Facilidad de Navegación:** Al diseñar la página para mi comodidad, puedo encontrar y acceder fácilmente a los archivos que deseo mostrar a los visitantes.
+![Proyectos](imagenes/screenshot3.png)
 
-- **Presentación Profesional:** Una página bien diseñada y estructurada refleja mi compromiso con la calidad y la atención al detalle, lo que puede causar una impresión positiva en quienes revisan mi portafolio.
+Testimonios:
 
-- **Expresión de Estilo Personal:** La personalización me permite agregar mi toque único al portafolio, mostrando mi estilo y creatividad tanto en el contenido como en el diseño.
+![Testimonios](imagenes/screenshot4.png)
 
-¡Explora mi portafolio y descubre mi progreso y habilidades en el desarrollo web! 🌟🔍
+Contacto:
+
+![Contacto](imagenes/screenshot5.png)
+
+## Tecnologías
+
+Esta página web fue creada con:
+
+* HTML
+* CSS
+* JavaScript 
+* Bootstrap 5
+
+Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
+
+## Español
+
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+
+
 
